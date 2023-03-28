@@ -22,6 +22,7 @@ def del_branches():
                 branch.delete()
 
 
+
 def main_del():
     del_branches()
 
