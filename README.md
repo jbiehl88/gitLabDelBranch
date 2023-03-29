@@ -9,4 +9,4 @@ Lets take a look at the [script](https://gitlab.com/demo4261012/gitlabdelbranch/
 - Adjust the number found in the THRESHOLD variable (currently set to days=7) to your preference.
 - Finally, run the script and you can check your projects and notice your old branches have been removed!
 
-That is all that is currently available to this project. Soon to come, automating the script to run on a scheduled time.
+That is all that is currently available for this project. Soon to come, automating the script to run on a scheduled time.
